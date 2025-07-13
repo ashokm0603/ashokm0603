@@ -32,9 +32,9 @@
 <p align="left">
 <a href="https://dev.to/ashok_m_9e82abe08f09c1b22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ashok_m_9e82abe08f09c1b22" height="30" width="40" /></a>
 <a href="https://twitter.com/ashokre07514557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashokre07514557" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashok-m-307984229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashok-m-307984229" height="30" width="40" /></a>
-<a href="https://instagram.com/just_call._.me_reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just_call._.me_reddy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashokashokm2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashokashokm2001" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashoka-m-307984229/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashok-m-307984229" height="30" width="40" /></a>
+<a href="https://instagram.com/just_call._.me_reddy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just_call._.me_reddy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ashokashokm2001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashokashokm2001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
