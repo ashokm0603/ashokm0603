@@ -7,7 +7,6 @@
 ###
 <h>I am  proficient Computer Science Engineering graduate, is making waves as a skilled Front-End Developer. With a passion for crafting seamless user experiences, excels in turning design concepts into reality through innovative coding solutions. Thriving in dynamic environments.</h4>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashokm0603&theme=dracula" />
 
 
 
@@ -21,6 +20,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashokm0603&theme=dracula" />
 </p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashokm0603&theme=dracula" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashokm0603&label=Profile%20views&color=0e75b6&style=flat" alt="ashokm0603" /> </p>
