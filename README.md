@@ -9,16 +9,19 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashokm0603&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashokm0603&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 
 
 <br clear="both">
 <h1 align="center">Hi 👋, I'm Ashoka M</h1>
 <h3 align="center">A passionate Java full stack and MERN developer from India</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashokm0603&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashokm0603&theme=dracula" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashokm0603&theme=dracula" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashokm0603&label=Profile%20views&color=0e75b6&style=flat" alt="ashokm0603" /> </p>
 
