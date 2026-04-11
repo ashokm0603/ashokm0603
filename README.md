@@ -43,7 +43,7 @@ A proficient Computer Science Engineering graduate with 4+ years of combined exp
 
 <p align="left"> <a href="https://twitter.com/ashokre07514557" target="blank"><img src="https://img.shields.io/twitter/follow/ashokre07514557?logo=twitter&style=for-the-badge" alt="ashokre07514557" /></a> </p>
 
-- 🔭 I’m currently working on **RV Institute of Technologies**
+- 🔭 I’m currently working on **RV Institute of Technologies And Ethnus**
 
 - 📫 How to reach me **ashokashokm2001@gmail.com**
 
