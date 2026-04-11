@@ -1,17 +1,17 @@
-### Hi, I'm Ashoka M! 
-#### **Full Stack Developer & Trainer at RV Institute of Technologies**  
+### Hi, I'm Ashoka M!  
+#### **Senior Full Stack Developer & Trainer | 4+ Years Experience**  
 
 🔹 Passionate **Java Full Stack Developer** skilled in **Java, Spring Boot, React.js, and SQL**  
-🔹 Enthusiastic about **building scalable applications** and **mentoring developers**  
-🔹 Love working on **backend, frontend, and databases** to create seamless web experiences  
-###
-<h>I am  proficient Computer Science Engineering graduate, is making waves as a skilled Front-End Developer. With a passion for crafting seamless user experiences, excels in turning design concepts into reality through innovative coding solutions. Thriving in dynamic environments.</h4>
+🔹 Experienced in **building scalable applications** and **mentoring 1000+ students & developers**  
+🔹 Strong expertise in **end-to-end development (Frontend, Backend & Databases)**  
+🔹 Focused on **real-time projects, deployments, and industry-ready solutions**  
 
+<h4>
+A proficient Computer Science Engineering graduate with 4+ years of combined experience in development and training. Skilled in designing and delivering scalable web applications, while mentoring learners to build industry-standard projects using modern technologies. Passionate about creating seamless user experiences and solving real-world problems through clean and efficient code.
+</h4>
 
+---
 
-
-
-<br clear="both">
 <h1 align="center">Hi 👋, I'm Ashoka M</h1>
 <h3 align="center">A passionate Java full stack and MERN developer from India</h3>
 
@@ -19,6 +19,22 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashokm0603&theme=dracula" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashokm0603&theme=dracula" />
 </p>
+
+
+## About Me  
+
+🔹 Full Stack Developer & Trainer with **4+ years of combined experience** in development, training, and real-time project delivery  
+🔹 Specialized in **Java Full Stack & MERN Stack Development**  
+🔹 Experienced in training **1000+ students and professionals** with industry-focused curriculum  
+🔹 Passionate about building **scalable applications, REST APIs, and modern UI systems**  
+🔹 Strong focus on **real-time projects, deployment, and placement readiness**
+
+---
+
+
+
+
+<br clear="both">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashokm0603&theme=dracula" />
 
