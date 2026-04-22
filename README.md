@@ -1,5 +1,5 @@
 ### Hi, I'm Ashoka M!  
-#### **Senior Full Stack Developer & Trainer | 5+ Years Experience**  
+#### **Senior Full Stack Developer & Trainer**  
 
 🔹 Passionate **Java Full Stack Developer** skilled in **Java, Spring Boot, React.js, and SQL**  
 🔹 Experienced in **building scalable applications** and **mentoring 1000+ students & developers**  
@@ -7,7 +7,7 @@
 🔹 Focused on **real-time projects, deployments, and industry-ready solutions**  
 
 <h4>
-A proficient Computer Science Engineering graduate with 4+ years of combined experience in development and training. Skilled in designing and delivering scalable web applications, while mentoring learners to build industry-standard projects using modern technologies. Passionate about creating seamless user experiences and solving real-world problems through clean and efficient code.
+A proficient Computer Science Engineering graduate with 5+ years of combined experience in development and training. Skilled in designing and delivering scalable web applications, while mentoring learners to build industry-standard projects using modern technologies. Passionate about creating seamless user experiences and solving real-world problems through clean and efficient code.
 </h4>
 
 ---
