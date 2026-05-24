@@ -1,3 +1,4 @@
+
 ### Hi, I'm Ashoka M!  
 #### **Senior Full Stack Developer & Trainer**  
 
@@ -14,6 +15,11 @@ A proficient Computer Science Engineering graduate with 5+ years of combined exp
 
 <h1 align="center">Hi 👋, I'm Ashoka M</h1>
 <h3 align="center">A passionate Java full stack and MERN developer from India</h3>
+
+<!-- Typing Animation Centered -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Full+Stack+Developer+%F0%9F%92%BB;Java+Full+Stack+Developer+%E2%98%95;MEAN+Full+Stack+Developer+%F0%9F%8C%90;Flutter+Developer+%F0%9F%93%B1;Trainer+and+Mentor+%F0%9F%8E%93" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashokm0603&theme=dracula" />
